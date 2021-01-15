@@ -1,8 +1,9 @@
 # Python-CodeWars
 
-### About
-
+![Python-Logo](/python_logo.png?raw=true)
 ![CodeWars Stats](https://www.codewars.com/users/romnegrillo/badges/large)
+
+### About
 
 This repository contains my solutions for the 
 algorithm challenges in CodeWars using Python.
